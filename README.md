@@ -11,12 +11,6 @@ Este projeto é uma calculadora científica construída em Python usando a bibli
 
 Para usar a calculadora, basta digitar os números e as operações desejadas no campo de entrada. A calculadora exibirá o resultado da operação no campo de saída.
 
-## Código
-
-O código da calculadora está dividido em dois arquivos: `ProjCalculadoraCientifica.py` e `main.py`.
-
-O arquivo `ProjCalculadoraCientifica.py` contém as funções que implementam as funcionalidades da calculadora. O arquivo `main.py` cria a interface gráfica da calculadora e chama as funções do arquivo `ProjCalculadoraCientifica.py`.
-
 ### Funções
 
 O arquivo `ProjCalculadoraCientifica.py` contém as seguintes funções:
